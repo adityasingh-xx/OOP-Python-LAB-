@@ -1,4 +1,4 @@
-# OOP-Python-LAB-
+# OOP-Python-LAB
 This repository contains OOP Python LAB programs (3rd Semester)
 
 Name - Aditya Singh
